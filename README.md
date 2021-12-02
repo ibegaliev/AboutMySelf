@@ -10,7 +10,7 @@ EXPERIENCE
 **[ABREST Energy Engineering LLC](http://abrest.uz/), February, 2021 – June, 2021 <br>
 PLC programmer**
 
-**[Rounded LLC](http://abrest.uz/), December, 2021 <br>
+**[Rounded LLC](https://www.instagram.com/rndd.llc/)(Internship), December, 2021 <br>
 iOS developer**
 
 EDUCATION
