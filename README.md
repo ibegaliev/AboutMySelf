@@ -13,6 +13,8 @@ PLC programmer**
 **[Rounded LLC](https://www.instagram.com/rndd.llc/)(Internship), December, 2021 <br>
 iOS developer**
 - [Geeta](https://github.com/ibegaliev/Geeta)
+- [Foodie](https://github.com/ibegaliev/Fooder)
+
 
 EDUCATION
 -
