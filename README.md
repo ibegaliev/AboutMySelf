@@ -3,7 +3,7 @@
 
 ### iOS(iPadOS) Developer  from  [Uzbekistan🇺🇿](https://en.wikipedia.org/wiki/Uzbekistan)
 
-[GitHub](https://github.com/ibegaliev) | [LinkedIn](https://www.linkedin.com/in/ibegaliev/) | [Email](mailto:ibrohimbek2048@gmail.com) | [Telegram](https://t.me/ibegaliev)
+[GitHub](https://github.com/ibegaliev) | [LinkedIn](https://www.linkedin.com/in/ibegaliev/) | [Email](mailto:ibrohimbek2048@gmail.com) | [Telegram](https://t.me/ibegalievblogi)
 
 EXPERIENCE
 -
