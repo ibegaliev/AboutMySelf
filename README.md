@@ -1,10 +1,10 @@
 <b><h1> Ibrokhim Begaliev</h></b>
 
----
-
 <b><h3> iOS(iPadOS) Developer  from  [Uzbekistan🇺🇿](https://en.wikipedia.org/wiki/Uzbekistan)</b></h>
 
 [GitHub](https://github.com/ibegaliev) | [LinkedIn](https://www.linkedin.com/in/ibegaliev/) | [Email](mailto:ibrohimbek2048@gmail.com) | [Telegram](https://t.me/ibegalievblogi)
+
+---
 
 EXPERIENCE
 -
@@ -16,6 +16,7 @@ iOS developer**
 - [Geeta](https://github.com/ibegaliev/Geeta)
 - [Foodie](https://github.com/ibegaliev/Fooder)
 
+---
 
 EDUCATION
 -
