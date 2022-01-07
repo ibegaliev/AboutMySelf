@@ -11,7 +11,7 @@ EXPERIENCE
 **[ABREST Energy Engineering LLC](http://abrest.uz/) February, 2021 – June, 2021 <br>
 PLC programmer**
 
-**[Rounded LLC](https://www.instagram.com/rndd.llc/)(Internship) December, 2021 <br>
+**[Rounded LLC](https://www.instagram.com/rndd.llc/)(Internship) December, 2021 - January, 2022 <br>
 iOS developer**
 - [Geeta](https://github.com/ibegaliev/Geeta)
 - [Foodie](https://github.com/ibegaliev/Fooder)
