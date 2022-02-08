@@ -1,8 +1,13 @@
 <b><h1> Ibrokhim Begaliev</h></b>
 
-<b><h3> iOS(iPadOS) Developer  from  [Uzbekistan🇺🇿](https://en.wikipedia.org/wiki/Uzbekistan)</b></h>
+<b><h3> iOS Developer  from  [Uzbekistan🇺🇿](https://en.wikipedia.org/wiki/Uzbekistan)</b></h>
 
-[GitHub](https://github.com/ibegaliev) | [LinkedIn](https://www.linkedin.com/in/ibegaliev/) | [Email](mailto:ibrohimbek2048@gmail.com) | [Telegram](https://t.me/ibegalievblogi)
+[Resume](https://github.com/ibegaliev/AboutMySelf) |
+[LinkedIn](https://www.linkedin.com/in/ibegaliev/) |
+[Email](ibrohimbek2048@gmail.com) |
+[Telegram](https://t.me/ibegalievblogi) |
+[Leetcode](https://leetcode.com/ibegaliev/) | 
+[GitLab](https://gitlab.com/ibegaliev)
 
 ---
 
